@@ -38,12 +38,16 @@
 
 - 📄 **Explore my experiences:** [View My Resume](https://drive.google.com/file/d/10ADthjBOzAYHjEDhhj0uzN7aXZnhNxeR/view?usp=sharing)
 
+  <br>
+
 <h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left">
 <a href="https://linkedin.com/in/alifhossain07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alifhossain07" height="30" width="40" /></a>
 <a href="https://fb.com/alifwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alifwebdev" height="30" width="40" /></a>
 <a href="https://instagram.com/alif_hossain07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alif_hossain07" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left"><strong>Languages and Tools:</strong></h3>
 <p align="left"> 
@@ -56,6 +60,8 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
+
+<br>
 
 <h3 align="left"><strong>GitHub Stats:</strong></h3>
 <p align="left">
