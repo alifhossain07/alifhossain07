@@ -6,7 +6,7 @@
 <h1 align="left">Hi 👋, I'm Alif</h1>
 <h3 align="left">Frontend Developer | Proficient in MERN Stack | Web Developer</h3>
 
-<!-- Placeholder for Animated GIF -->
+
 
 
 <p align="left">
@@ -20,7 +20,7 @@
 <p align="left">
   Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
 </p>
-<br><br>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 
