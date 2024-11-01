@@ -66,9 +66,12 @@
 <h3 align="left"><strong>GitHub Stats:</strong></h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alifhossain07&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifhossain07&" alt="GitHub Streak" />
+  
 </p>
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alifhossain07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="left">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifhossain07&" alt="GitHub Streak" />
 </p>
