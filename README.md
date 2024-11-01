@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Animated GIF" width="400" />
+<p align="left">
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Animated GIF" width="600" />
 </p>
 <br>
 
@@ -7,21 +7,19 @@
 <h3 align="left">Frontend Developer | Proficient in MERN Stack | Web Developer</h3>
 
 <!-- Placeholder for Animated GIF -->
-<p align="center">
-  <img src="URL_TO_YOUR_GIF" alt="Animated GIF" width="400" />
+
+
+<p align="left">
+  I am a passionate frontend developer specializing in the MERN stack, particularly focused on creating dynamic and engaging web applications. I have experience building and maintaining applications using React, Tailwind, Express, Node, and MongoDB, and I thrive on solving problems and delivering efficient solutions.
 </p>
 
-<h3 align="left">
-  I am a passionate frontend developer specializing in the MERN stack, particularly focused on creating dynamic and engaging web applications. I have experience building and maintaining applications using React, Tailwind, Express, Node, and MongoDB, and I thrive on solving problems and delivering efficient solutions.
-</h3>
-
-<h3 align="left">
+<p align="left">
   I am committed to using technology to create positive impacts and enhance user experiences. In my free time, I enjoy keeping up with the latest trends in the tech industry and experimenting with new tools and frameworks. I also like to participate in online programming challenges to further sharpen my skills.
-</h3>
+</p>
 
-<h3 align="left">
+<p align="left">
   Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
-</h3>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 
