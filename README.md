@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Alif Hossain</h1>
-<h3 align="center">a dedicated frontend developer with a strong focus on creating dynamic and user-friendly web applications. With a solid foundation in the MERN stack, I thrive on turning ideas into reality and delivering seamless experiences that captivate users. My goal is to contribute to innovative projects and grow within a collaborative team environment.</h3>
+
+<h1 align="left">Hi 👋, I'm Alif Hossain</h1>
+<h3 align="left">a dedicated frontend developer with a strong focus on creating dynamic and user-friendly web applications. With a solid foundation in the MERN stack, I thrive on turning ideas into reality and delivering seamless experiences that captivate users. My goal is to contribute to innovative projects and grow within a collaborative team environment.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifhossain07&label=Profile%20views&color=0e75b6&style=flat" alt="alifhossain07" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://emperaltech.com/blog-2](https://emperaltech.com/blog-2)
 
-- 💬 Ask me about **Front End Development Techniques, MERN, Responsive Designspo**
+- 💬 Ask me about **Front End Development Techniques, MERN, Responsive Design**
 
 - 📫 How to reach me **alifhossain56782@gmail.com**
 
